@@ -1,3 +1,3 @@
-# Collection of miscellaneous projects/studies
+### Collection of my miscellaneous projects/studies
 
 
